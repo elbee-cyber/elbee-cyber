@@ -24,7 +24,7 @@ Interested in like, anything? Hit me up, I'm a friendly guy! (Currently not look
 
 - On <a href="https://app.hackthebox.eu/profile/320349">HackTheBox</a> and <a href="https://tryhackme.com/p/elbee">TryHackMe (top 1%)</a>.
 
-- Developed <a href="https://www.youtube.com/watch?v=QtsTI8MnMGc">The Survey Project</a> and created several python scripts integrated with the YouTube API to track stats.
+- Developed <a href="https://www.youtube.com/watch?v=QtsTI8MnMGc">The Survey Project and other Roblox games.</a> Additionally, I created several python scripts integrated with the YouTube API to track stats.
 
 - Several small unity projects.
 

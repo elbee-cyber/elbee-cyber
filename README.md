@@ -6,8 +6,11 @@
 </p>
 <div size='20px'> Howdy! I'm Dylan, but online I go by elbee. I am a cybersecurity student, CTF team captain, programmer and an ex-game developer on Roblox. I love breaking stuff, but I also love seeing why stuff breaks. In the infosec industry, blue team duties are just as precious to me as the sought-after red. Eighteen and striving to make a difference in that vastly changing threat landscape! :smile: (I'm also a boxer, not that that matters)
   <br></br>
-Interested in like, anything? Hit me up, I'm a friendly guy! (Currently not looking for any work) elbee_ez@protonmail.com
+Interested in like, anything? Hit me up, I'm a friendly guy! dontopenthis@protonmail.com
 </div>
+
+<h1> Certifications </h1>
+- eJPT | eLearnSecurity
 
 <h1> Previous Experience </h1>
 
@@ -38,6 +41,8 @@ Interested in like, anything? Hit me up, I'm a friendly guy! (Currently not look
 
 <h2> Community Appearances </h2>
 - Interviewed by <a href="https://medium.com/hackenproof/hacker-interview-1-elbee-68709ebe8ff9">Hackenproof</a> a Web3 bug bounty platform.
+
+<h2> Awards </h2>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/elbee-cyber?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>

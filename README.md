@@ -33,8 +33,6 @@ Interested in like, anything? Hit me up, I'm a friendly guy! dontopenthis@proton
 
 - NodeJS backend web development.
 
-- Certified eLearnSecurity Junior Penetration Tester.
-
 - Captain and co-founder of Core Corrupt CTF team
 
 - <a href="https://www.tracelabs.org/">Tracelabs</a> participant.
